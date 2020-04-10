@@ -3,7 +3,7 @@
 ## 怎么实现的？
 感谢Mumuli大佬制作的插件
 
-[原博客 1](https://blog.mumuli.cn/148.html?tdsourcetag=s_pctim_aiomsg)
+[原博客 1](https://blog.mumuli.cn/148.html)
 [原博客 2](https://blog.mumuli.cn/120.html)
 
 ## 怎么用？
